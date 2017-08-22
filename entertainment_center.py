@@ -4,7 +4,7 @@ import fresh_tomatoes
 
 spider_man1 = media.Movie(
   "Spider Man 1", "A story of spider man, first film",
-  "https://upload.wikimedia.org/wikipedia/en/f/f3/Spider-Man2002Poster.jpg", 
+  "https://upload.wikimedia.org/wikipedia/en/f/f3/Spider-Man2002Poster.jpg",
   "https://youtu.be/TYMMOjBUPMM")
 spider_man2 = media.Movie(
   "Spider Man 2", "A story of spider man, second film",
@@ -27,7 +27,7 @@ spider_man_reboot2 = media.Movie(
   "The_Amazing_Spiderman_2_poster.jpg",
   "https://youtu.be/DlM2CWNTQ84")
 spider_man_homecoming = media.Movie(
-  "Spider Man: Homecoming", 
+  "Spider Man: Homecoming",
   "New story of spider man",
   "https://upload.wikimedia.org/wikipedia/en/f/f9/"
   "Spider-Man_Homecoming_poster.jpg",
